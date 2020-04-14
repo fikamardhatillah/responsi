@@ -1,0 +1,11 @@
+C:\gatau\Responsi\Responsi\bin\Debug\netcoreapp3.0\Responsi.exe
+C:\gatau\Responsi\Responsi\bin\Debug\netcoreapp3.0\Responsi.deps.json
+C:\gatau\Responsi\Responsi\bin\Debug\netcoreapp3.0\Responsi.runtimeconfig.json
+C:\gatau\Responsi\Responsi\bin\Debug\netcoreapp3.0\Responsi.runtimeconfig.dev.json
+C:\gatau\Responsi\Responsi\bin\Debug\netcoreapp3.0\Responsi.dll
+C:\gatau\Responsi\Responsi\bin\Debug\netcoreapp3.0\Responsi.pdb
+C:\gatau\Responsi\Responsi\obj\Debug\netcoreapp3.0\Responsi.AssemblyInfoInputs.cache
+C:\gatau\Responsi\Responsi\obj\Debug\netcoreapp3.0\Responsi.AssemblyInfo.cs
+C:\gatau\Responsi\Responsi\obj\Debug\netcoreapp3.0\Responsi.dll
+C:\gatau\Responsi\Responsi\obj\Debug\netcoreapp3.0\Responsi.pdb
+C:\gatau\Responsi\Responsi\obj\Debug\netcoreapp3.0\Responsi.csprojAssemblyReference.cache
